@@ -24,4 +24,6 @@ What this actually is just a fun little command to goof around with. There are a
 cmatrix -C red
 ```
 
+![Red Matrix](https://imgur.com/PwMXSVx.png)
+
 And the falling characters will be red. This command isn't really something that will help you with your job or anything, but it is fun to know that you can have some fun in Linux.
